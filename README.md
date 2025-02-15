@@ -19,7 +19,7 @@
 🌍 I **design & develop websites** for brands, businesses, and portfolios.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUzdGgxbGJ5aW1lNTdseHd3bWpsMW4wenl4YnhyaDRhMDdicjc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif"500px">
 </p>
 
 ---
@@ -38,10 +38,7 @@
 ---
 
 ## 🌟 Featured Projects  
-📌 **[Discord Bot](https://github.com/your-bot-repo)** → Custom bot with moderation, automation & mini-games.  
-📌 **[Ethical Hacking Tools](https://github.com/your-hacking-repo)** → Scripts for security testing & penetration testing.  
-📌 **[Portfolio Website](https://yourportfolio.com)** → A sleek, custom-built portfolio showcasing my skills.  
-📌 **[Instagram Marketing Tool](https://github.com/your-marketing-tool)** → Automates analytics & engagement tracking.  
+🚧 **Work In Progress...** 🚀  
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500px">
@@ -71,4 +68,4 @@
 
 ## 📫 Connect With Me  
 💼 **Business & Services:** [My Store](https://beacons.ai/k3nt_4)  
-📷 **Instagram:** [chef_xic](https://instagram.com/chef_xic)
+📷 **Instagram:** [chef_xic](https://instagram.com/chef_xic)  
