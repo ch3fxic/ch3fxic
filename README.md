@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ch3fXic 👋</h1>  
 
 <p align="center">
-  <img src="https://i.gifer.com/8Er0.gif" width="40px">
+  <img src="https://i.gifer.com/47tj.gif" width="60px">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 🌍 I **design & develop websites** for brands, businesses, and portfolios.  
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUzdGgxbGJ5aW1lNTdseHd3bWpsMW4wenl4YnhyaDRhMDdicjc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif"500px">
+  <img src="https://i.gifer.com/3BBS.gif"600px">
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ✔️ **Automation & Bots:** I build **custom Discord bots & automation tools**.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500px">
+  <img src="https://i.gifer.com/XOsa.gif" width="500px">
 </p>
 
 ---
