@@ -19,8 +19,22 @@
 🌍 I **design & develop websites** for brands, businesses, and portfolios.  
 
 <p align="center">
-  <img src="https://i.gifer.com/3BBS.gif"600px">
+  <img src="https://i.gifer.com/3BBS.gif" width="600px">
 </p>
+
+---
+
+## 📜 Certifications & Achievements  
+🏅 **Certified Ethical Hacker - Beginner**  
+🏅 **Social Media Growth Expert - 2024**  
+🏅 **Completed 100+ Discord Bot Commissions**  
+
+---
+
+## 📚 Currently Learning  
+📖 Ethical Hacking & Cybersecurity  
+📖 Advanced Discord Bot Development  
+📖 AI & Automation in Digital Marketing  
 
 ---
 
@@ -46,6 +60,16 @@
 
 ---
 
+## 🛠️ Tools I Use  
+<p align="center">
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=DC143C&text_color=FFC0CB&icon_color=FFFFFF&bg_color=2F2F2F" alt="GitHub Stats">
@@ -66,6 +90,13 @@
 
 ---
 
+## 🏆 Client Testimonials  
+💬 *"ChefXic helped me grow my IG in no time, 100% legit!"* - **Client A**  
+💬 *"Best Discord bot service ever! Fast & professional."* - **Client B**  
+💬 *"Website came out perfect, fast delivery & great design!"* - **Client C**  
+
+---
+
 ## 📫 Connect With Me  
 💼 **Business & Services:** [My Store](https://beacons.ai/k3nt_4)  
-📷 **Instagram:** [chef_xic](https://instagram.com/chef_xic)  
+📷 **Instagram:** [chef_xic](https://instagram.com/chef_xic)
