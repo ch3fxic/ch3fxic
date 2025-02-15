@@ -41,7 +41,7 @@
 🚧 **Work In Progress...** 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500px">
+  <img src="https://64.media.tumblr.com/39ba5b470675be51efe7ee2ba6d016c0/tumblr_mveg591HN21sjpsuyo1_500.gif" width="360px">
 </p>
 
 ---
