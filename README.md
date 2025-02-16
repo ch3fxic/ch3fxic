@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ch3fXic 👋</h1>  
 
 <p align="center">
-  <img src="https://i.gifer.com/47tj.gif" width="60px">
+  <img src="https://i.gifer.com/47tj.gif" width="80px">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## 📜 Certifications & Achievements  
+## 📝 Certifications & Achievements  
 🏅 **Certified Ethical Hacker - Beginner**  
 🏅 **Social Media Growth Expert - 2024**  
 🏅 **Completed 100+ Discord Bot Commissions**  
@@ -32,9 +32,9 @@
 ---
 
 ## 📚 Currently Learning  
-📖 Ethical Hacking & Cybersecurity  
-📖 Advanced Discord Bot Development  
-📖 AI & Automation in Digital Marketing  
+📚 Ethical Hacking & Cybersecurity  
+📚 Advanced Discord Bot Development  
+📚 AI & Automation in Digital Marketing  
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 ## 🌟 Featured Projects  
-🚧 **Work In Progress...** 🚀  
+🛠️ **Work In Progress...** 🚀  
 
 <p align="center">
   <img src="https://i.gifer.com/6KpW.gif" width="360px">
@@ -73,7 +73,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ch3fxic&show_icons=true&theme=radical&title_color=DC143C&text_color=FFC0CB&icon_color=FFFFFF&bg_color=2F2F2F" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch3fxic&theme=radical&background=2F2F2F&stroke=FFFFFF&ring=DC143C&fire=FF4500&currStreakLabel=FFC0CB" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ch3fxic&theme=radical&background=2F2F2F&stroke=FFFFFF&ring=DC143C&fire=FF4500&currStreakLabel=FFC0CB" alt="GitHub Streak">
 </p>
 
 ---
@@ -97,6 +97,6 @@
 
 ---
 
-## 📫 Connect With Me  
+## 📧 Connect With Me  
 💼 **Business & Services:** [My Store](https://beacons.ai/k3nt_4)  
 📷 **Instagram:** [chef_xic](https://instagram.com/chef_xic)
