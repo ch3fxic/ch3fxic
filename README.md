@@ -72,8 +72,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=DC143C&text_color=FFC0CB&icon_color=FFFFFF&bg_color=2F2F2F" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=2F2F2F&stroke=FFFFFF&ring=DC143C&fire=FF4500&currStreakLabel=FFC0CB" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ch3fxic&show_icons=true&theme=radical&title_color=DC143C&text_color=FFC0CB&icon_color=FFFFFF&bg_color=2F2F2F" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch3fxic&theme=radical&background=2F2F2F&stroke=FFFFFF&ring=DC143C&fire=FF4500&currStreakLabel=FFC0CB" alt="GitHub Streak">
 </p>
 
 ---
