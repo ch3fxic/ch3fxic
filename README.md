@@ -173,7 +173,7 @@ class Ch3fXic:
 
 <div align="center">
 
-> 💼 *"ChefXic delivered exceptional Discord bot functionality with rapid deployment. The automation saved us countless hours!"*  
+> 💼 *"Ch3fXic delivered exceptional Discord bot functionality with rapid deployment. The automation saved us countless hours!"*  
 > **— Tech Startup Client**
 
 > 📈 *"Outstanding results in social media growth campaigns. Our engagement increased by 300% in just 2 months!"*  
@@ -192,7 +192,6 @@ class Ch3fXic:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chef_xic)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ch3fxic)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ### 📧 Open for Collaborations & Projects!
 
@@ -203,8 +202,6 @@ class Ch3fXic:
 <div align="center">
   
   ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  ![Snake animation](https://raw.githubusercontent.com/ch3fxic/ch3fxic/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
