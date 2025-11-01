@@ -65,9 +65,7 @@ class Ch3fXic:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### Design Tools
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -192,6 +190,10 @@ class Ch3fXic:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chef_xic)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ch3fxic)
+
+[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:void@oniko.space)
+[![TikTok](https://img.shields.io/badge/TikTok-DC143C?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chef_xic)
+[![Threads](https://img.shields.io/badge/Threads-DC143C?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@chef_xic)
 
 ### 📧 Open for Collaborations & Projects!
 
